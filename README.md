@@ -9,7 +9,7 @@ I am an Entry-Level Data Analyst focused on transforming raw, unstructured data 
 - Extract insights that highlight trends, patterns and opportunities
 
 ## Featured Projects
-### 1. Retail Sales Analysis
+### 1. Retail Sales Performance Analysis
 - Identified top-performing product categories
 - Analyzed customer payment behavior
 - Compared online vs in-store spending patterns
@@ -21,6 +21,10 @@ I am an Entry-Level Data Analyst focused on transforming raw, unstructured data 
 ### 3. Customer Data Analysis
 - Improved dataset quality and consistency
 - Extracted customer behavior insights
+
+### 4. Retail Sales Analysis
+- Analyzed product performance
+- Identified patterns in customer purchasing behavior
 
 ## Tools
 - Microsoft Excel
