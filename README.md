@@ -26,6 +26,11 @@ I am an Entry-Level Data Analyst focused on transforming raw, unstructured data 
 - Analyzed product performance
 - Identified patterns in customer purchasing behavior
 
+### 5. Supply Chain Analysis
+- Evaluated revenue and profit performance across product categories
+- Identified top-performing SKUs based on revenue and inventory levels
+- Monitored overall operational profitability and inventory distribution
+
 ## Tools
 - Microsoft Excel
 - SQL
